@@ -1,7 +1,7 @@
 from sys import argv
 
-def main(args):
+def __main__(args):
     print("Hello World!")
 
 if __name__ == "__main__":
-    main(argv)
+    __main__(argv)
